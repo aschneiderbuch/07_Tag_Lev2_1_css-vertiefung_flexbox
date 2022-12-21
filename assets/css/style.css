@@ -46,7 +46,7 @@ h1{
     text-align: center;
     color: purple;
     margin-top: 1rem;
-    font-size: 6rem;
+    font-size: 6vw;         /* vw anstatt rem, damit es aufn handy gut aussieht :-( */
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1::before{
