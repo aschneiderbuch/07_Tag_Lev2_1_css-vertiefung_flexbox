@@ -31,8 +31,15 @@ img{
     border-radius: 5rem;
     border: 0.5rem purple;
     border-style: outset;
-
 }
+
+img:hover{
+    width: 300px;
+    border: 0.5rem yellow;
+    border-style: outset;
+}
+
+
 
 h1{
     text-align: center;
@@ -48,3 +55,4 @@ h1::before{
 h1::after{
     content: " 🫶 ";
 }
+
